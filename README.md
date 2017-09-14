@@ -6,9 +6,12 @@ Primer: https://developers.coveo.com/display/public/SalesforceV2/Interacting+wit
 
 1. Changing the filter value of a Facet, please refer to facetNameChange.js
 
+Before:
+
 ![Facet Labels Before Change](
 https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetLabelnochange.PNG)
 
+After:
 
 ![Facet Labels After Change](
 https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetlabelwithchange.PNG)
