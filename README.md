@@ -15,3 +15,10 @@ After:
 
 ![Facet Labels After Change](
 https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetlabelwithchange.PNG)
+
+
+2. Template Loader 
+
+  - Images
+  
+   
