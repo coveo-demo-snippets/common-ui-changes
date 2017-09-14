@@ -21,4 +21,8 @@ https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetlabelw
 
   - Images
   
+  - Input Checkbox
+  
+  - Api call
+  
    
