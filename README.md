@@ -11,4 +11,4 @@ https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetLabeln
 
 
 ![Facet Labels After Change](
-https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetLabelwithchange.PNG)
+https://github.com/coveo-demo-snippets/common-ui-changes/blob/master/facetlabelwithchange.PNG)
