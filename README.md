@@ -40,4 +40,19 @@ Coveo.$('.CoveoSearchInterface').on('deferredQuerySuccess', function(e, args) {
   
   - Api call (transform likes to stars)
   
+  
+                    
+<script class="result-template" type="text/x-underscore-template" id="actionDownload">
+    <a class="CoveoResultLink" href="{!$Label.SF_url}/contenthub/download/<%=raw.sfid%>">
+        <button class="slds-button slds-button_brand" style="font-size: 10px; width: 90px ; background-color: #f4b342; border: none;">Download</button>
+    </a>
+</script>
+  <script class="result-template" type="text/x-underscore-template" id="quickView"></script> 
+
+<script class="result-template" type="text/html" id="actionComment">
+<a class="CoveoResultLink" data-field="@clickableuri">
+    <img border="0" alt="comment" title="comment not impl for demo" src="https://cdn1.iconfinder.com/data/icons/speech-bubbles/24/Speach-Bubbles-256.png" width="32" height="32">
+        </a>
+    </script>
+  
    
